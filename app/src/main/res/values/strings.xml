@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FaceRecognition</string>
+
+    <string name="btn_check_in">Clock In</string>
+    <string name="btn_check_out">Clock Out</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_submit">Submit</string>
+
+    <string name="txt_username">Username</string>
+    <string name="txt_home">Home Screen</string>
+
+    <string name="msg_success">Verification completed!</string>
+    <string name="msg_fail">Verification failed!</string>
+    <string name="msg_error">No face are detected!</string>
+    <string name="msg_notify">Capture three photos to register your face recognition data</string>
+</resources>
